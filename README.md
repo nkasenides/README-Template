@@ -10,7 +10,7 @@ Nicos Kasenides
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#tools">Development tools</a></li>
       </ul>
     </li>
     <li>
@@ -37,7 +37,7 @@ What features does it provide? Who are the intended users?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### Development tools
 
 This section should list any major frameworks/libraries used to create your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
