@@ -6,7 +6,7 @@ Your Name
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><h1>Table of Contents</h1></summary>
+  <summary><h2>Table of Contents</h2></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
