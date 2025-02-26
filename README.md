@@ -104,7 +104,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@example.com - [@your_twitter](https://twitter.com/your_username)
+Your Name - email@example.com - [GitHub Account](https://github.com/your_username)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
