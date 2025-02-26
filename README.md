@@ -1,7 +1,7 @@
 # Project title
 
-Nicos Kasenides
-<a href="">nkasenides2@uclan.ac.uk</a>
+Your Name
+<a href="">email@example.com</a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
